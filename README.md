@@ -1,6 +1,3 @@
-<h1<h1 align="center">Hi there 👋I'm Aashiq Benny</h1>
-
-###
 <h1 align="center">Hi there 👋I'm Aashiq Benny</h1>
 
 ###
