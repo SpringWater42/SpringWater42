@@ -6,13 +6,15 @@
 
 ###
 
-<img align="right" height="150" width="250" src="Comp Gif.gif"  />
+<img align="right" height="200" width="250" src="Comp Gif.gif"  />
 
 ###
 
-<h3 align="left">✨ Currently building myself up<br>📚 I'm currently learning Html,Css,Js<br>🎯 Goals: Full time developer</h3>
+<p align="left">-✨ / Currently building myself up<br>-🧱 / Building up Portfolio<br>-📚 / I'm currently learning Html,Css,Js<br>-🎯 / Goals: Full time developer</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
@@ -29,5 +31,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpringWater42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SpringWater42/SpringWater42/output/snake.svg" alt="Snake animation" />
 
 ###
