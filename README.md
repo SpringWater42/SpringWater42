@@ -36,6 +36,5 @@
 
 <br clear="both">
 
-<img src="Animation" alt="Snake animation" />
 
 ###
