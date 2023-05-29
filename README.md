@@ -8,7 +8,7 @@
 <h2 align="left">
 - 🔭 I’m currently working on  building portfolio
 <br>
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Html,Css,Js
   Html
   Css
   Js
