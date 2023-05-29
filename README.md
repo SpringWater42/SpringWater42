@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aashiq Benny</h1>
 <h3 align="center">An Inspired Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<img alt="Coder GIF" height=250 width=350 float= "right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<br>
+
+<img src="Comp Gif.gif" height=250 width=150 />
+
 <p align="left">
 </p>
 
@@ -10,10 +14,7 @@
 =350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
 
-<img alt="Coder GIF" height=250 width=350 float= "right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br>
 
-<img src="Comp Gif.gif" height=250 width=150 />
 <!--
 **SpringWater42/SpringWater42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
