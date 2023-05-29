@@ -1,4 +1,4 @@
-### Hi 👋 ,Im Aashiq Benny
+### Hi 👋 ,Im Aashiq Benny text-align=center
 <br>
  Inspired Developer
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
