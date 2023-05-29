@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SpringWater42/SpringWater42/output/snake.svg" alt="Snake animation" />
+<img src="Animation" alt="Snake animation" />
 
 ###
