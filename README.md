@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="100" width="200" src="Comp Gif.gif"  />
+<img align="right" height="150" width="250" src="Comp Gif.gif"  />
 
 ###
 
