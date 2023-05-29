@@ -1,18 +1,15 @@
 <h1<h1 align="center">Hi there 👋I'm Aashiq Benny</h1>
 
 ###
+<h1 align="center">Hi there 👋I'm Aashiq Benny</h1>
+
+###
 
 <h2 align="center">Inspired Developer</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<h2 align="left"></h2>
+<img align="right" height="100" src=""  />
 
 ###
 
