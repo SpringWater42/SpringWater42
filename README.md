@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-✨ / Currently building myself up<br>-🧱 / Building up Portfolio<br>-📚 / I'm currently learning (Html,Css,Js) MySql <br>-🎯 / Goals: Full time developer</p>
+<p align="left">-✨ / Currently building myself up<br>-🧱 / Building up Portfolio 50%<br>-📚 / I'm currently learning (Html,Css,Js,Boodstrap) MySql <br>-🎯 / Goals: Full time developer</p>
 
 ###
 
@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
