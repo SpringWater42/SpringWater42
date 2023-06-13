@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Inspired Developer</h2>
+<h2 align="center">An Inspiring Developer</h2>
 
 ###
 
