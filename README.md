@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-✨ / Currently building myself up<br>-🧱 / Building up Portfolio 50%<br>-📚 / I'm currently learning (Html,Css,Js,Boodstrap) MySql <br>-🎯 / Goals: Full time developer</p>
+<p align="left">-✨ / Currently building myself up<br>-🧱 / Building up Portfolio <br>-📚 / I'm currently learning MySql,Vue <br>-🎯 / Goals: Full time developer</p>
 
 ###
 
