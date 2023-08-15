@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">-✨ / Currently building myself up<br>-🧱 / Building up Portfolio <br><br>-🎯 / Goals: Full time developer</p>
+<p align="left">-
+  ✨ / Currently building myself up
+  <br>-🧱 / Building up Portfolio
+  <br>-🎯 / Goals: Full time developer</p>
 
 ###
 
