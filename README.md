@@ -12,7 +12,7 @@
 
 <p align="left">-
   ✨ / Currently building myself up
-  <br>-🧱 / Building up Portfolio
+ -🧱 / Building up Portfolio
   <br>-🎯 / Goals: Full time developer</p>
 
 ###
