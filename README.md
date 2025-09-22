@@ -11,9 +11,13 @@
 ###
 
 <p align="left">-
-  ✨ / Currently building myself up
- -🧱 / Building up Portfolio
-  <br>-🎯 / Goals: Full time developer</p>
+  💻 Aspiring Full-Stack Developer | 
+
+I’m a motivated and adaptable professional with a foundation in HTML, CSS, JavaScript, Python, Vue.js, PHP, SQL, Node.js, Bootstrap, and Oracle APEX. A recent Life Choices Leaders Quest graduate, I’ve strengthened my leadership, communication, and teamwork skills while building a solid base in problem-solving and adaptability.
+
+Beyond technical expertise, I’ve gained experience supporting peers in school projects and volunteering at community events, which taught me the value of collaboration and resilience.
+
+Currently, I’m seeking opportunities in entry-level business administration, customer service, or tech-focused roles where I can continue learning, grow my skill set, and make a positive contribution to my team.
 
 ###
 
@@ -30,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52 alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="40"  width="52 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"  width="52/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="40"  width="52 />
+          
+
  
   
   
