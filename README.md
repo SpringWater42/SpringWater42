@@ -17,7 +17,6 @@ I’m a motivated and adaptable professional with a foundation in HTML, CSS, Jav
 
 Beyond technical expertise, I’ve gained experience supporting peers in school projects and volunteering at community events, which taught me the value of collaboration and resilience.
 
-Currently, I’m seeking opportunities in entry-level business administration, customer service, or tech-focused roles where I can continue learning, grow my skill set, and make a positive contribution to my team.
 
 ###
 
