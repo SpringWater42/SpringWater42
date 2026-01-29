@@ -13,12 +13,14 @@
 <p align="left">-
   💻 Aspiring Full-Stack Developer | 
 
-I’m a motivated and adaptable professional with a foundation in HTML, CSS, JavaScript, Python, Vue.js, PHP, SQL, Node.js, Bootstrap, and Oracle APEX. A recent Life Choices graduate, I’ve strengthened my communication, and teamwork skills while building a solid base in problem-solving and adaptability.
+I’m a motivated and adaptable professional with a foundation in HTML, CSS, JavaScript, Python, Vue.js, PHP, SQL,React,Typescript,Next.js, Node.js, Bootstrap, and Oracle APEX. A recent Life Choices graduate, I’ve strengthened my communication, and teamwork skills while building a solid base in problem-solving and adaptability.
 
 Beyond technical expertise, I’ve gained experience supporting peers in projects which taught me the value of collaboration and resilience.
 
 
 ###
+
+
 
 <br clear="both">
 
